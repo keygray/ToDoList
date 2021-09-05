@@ -32,7 +32,13 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
+}
+
+.active-select-sort {
+  color: red !important;
+  font-weight: bold !important;
 }
